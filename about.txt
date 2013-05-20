@@ -1,0 +1,37 @@
+	/!\ldd/!\
+
+	linux-vdso.so.1 =>  (0x00007fff5017b000)
+	libQt5Widgets.so.5 => /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5 (0x00007f07b65f7000)
+	libQt5Gui.so.5 => /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5 (0x00007f07b601b000)
+	libQt5Core.so.5 => /usr/lib/x86_64-linux-gnu/libQt5Core.so.5 (0x00007f07b5a06000)
+	libstdc++.so.6 => /usr/lib/x86_64-linux-gnu/libstdc++.so.6 (0x00007f07b5703000)
+	libgcc_s.so.1 => /lib/x86_64-linux-gnu/libgcc_s.so.1 (0x00007f07b54ed000)
+	libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f07b5124000)
+	libpthread.so.0 => /lib/x86_64-linux-gnu/libpthread.so.0 (0x00007f07b4f07000)
+	libgobject-2.0.so.0 => /usr/lib/x86_64-linux-gnu/libgobject-2.0.so.0 (0x00007f07b4cb8000)
+	libglib-2.0.so.0 => /lib/x86_64-linux-gnu/libglib-2.0.so.0 (0x00007f07b49bb000)
+	libX11.so.6 => /usr/lib/x86_64-linux-gnu/libX11.so.6 (0x00007f07b4681000)
+	libm.so.6 => /lib/x86_64-linux-gnu/libm.so.6 (0x00007f07b437c000)
+	libpng12.so.0 => /lib/x86_64-linux-gnu/libpng12.so.0 (0x00007f07b4155000)
+	libz.so.1 => /lib/x86_64-linux-gnu/libz.so.1 (0x00007f07b3f3e000)
+	libGL.so.1 => /usr/lib/nvidia-310/libGL.so.1 (0x00007f07b3c1b000)
+	libicui18n.so.48 => /usr/lib/x86_64-linux-gnu/libicui18n.so.48 (0x00007f07b3854000)
+	libicuuc.so.48 => /usr/lib/x86_64-linux-gnu/libicuuc.so.48 (0x00007f07b34e9000)
+	libdl.so.2 => /lib/x86_64-linux-gnu/libdl.so.2 (0x00007f07b32e5000)
+	librt.so.1 => /lib/x86_64-linux-gnu/librt.so.1 (0x00007f07b30dc000)
+	/lib64/ld-linux-x86-64.so.2 (0x00007f07b6e0d000)
+	libffi.so.6 => /usr/lib/x86_64-linux-gnu/libffi.so.6 (0x00007f07b2ed4000)
+	libpcre.so.3 => /lib/x86_64-linux-gnu/libpcre.so.3 (0x00007f07b2c94000)
+	libxcb.so.1 => /usr/lib/x86_64-linux-gnu/libxcb.so.1 (0x00007f07b2a76000)
+	libnvidia-tls.so.310.44 => /usr/lib/nvidia-310/tls/libnvidia-tls.so.310.44 (0x00007f07b2873000)
+	libnvidia-glcore.so.310.44 => /usr/lib/nvidia-310/libnvidia-glcore.so.310.44 (0x00007f07b037f000)
+	libXext.so.6 => /usr/lib/x86_64-linux-gnu/libXext.so.6 (0x00007f07b016d000)
+	libicudata.so.48 => /usr/lib/x86_64-linux-gnu/libicudata.so.48 (0x00007f07aedfd000)
+	libXau.so.6 => /usr/lib/x86_64-linux-gnu/libXau.so.6 (0x00007f07aebf8000)
+	libXdmcp.so.6 => /usr/lib/x86_64-linux-gnu/libXdmcp.so.6 (0x00007f07ae9f2000)
+
+MD5 for Linux:
+bf9f3f069e1615d635a699eb2a22aac7  Voca
+
+SHA1 for Linux:
+667efc2072c94604a1ef0a1088026b55ac642e7a  Voca
